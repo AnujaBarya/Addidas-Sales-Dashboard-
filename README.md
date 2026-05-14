@@ -42,7 +42,9 @@ The dashboard provides insights into sales performance, operating profit, region
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview]
+<img width="1634" height="968" alt="dashboard" src="https://github.com/user-attachments/assets/e3298a4f-7f4d-4fe4-b6a8-9c926936f0b1" />
+
 
 ---
 
